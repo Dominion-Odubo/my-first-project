@@ -79,8 +79,9 @@ p{
     text-decoration: line-through;
 }
 .enroll{
-    padding-left: 1em;
-    padding-right: 1em;
+    border: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
     font-size: large;
     background-color: rgb(124, 30, 30);
 }
@@ -91,23 +92,34 @@ content{
 
 }
 .container 1{
+    border: 2px;
+    margin-left: 1em;
 
 }
 .container 2{
-    
- 
-}
-.inline{
+    border: 2px;
+    margin-left: 1em;
+    margin-right: 1em;
 
 }
-.module{
-
+.container 3{
+    border: 2px;
+    margin-left: 1em;
+    margin-right: 1em;
 }
-.ul{
 
+.container 4{
+    border: 2px;
+    margin-left: 1em;
+    margin-right: 1em;
 }
-.module{
-    
+
+
+.container 5{ 
+    border: 2px;
+    margin-left: 1em;
+    margin-right: 1em;
+
 }
 .certified{
     background-color:black
